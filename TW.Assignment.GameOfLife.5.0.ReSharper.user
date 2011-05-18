@@ -1,0 +1,47 @@
+<Configuration>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="393" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="416" fromTop="8" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="182" fromTop="4" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="390" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers>
+      <nUnitIndustrialLogicRecorder>False</nUnitIndustrialLogicRecorder>
+    </Providers>
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="AUniverseWithOneLivingCellDoesNotSurvives`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="Universe" priority="0" />
+      <Item value="universe" priority="1" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="cell" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TW.Assignment.GameOfLife", "TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.csproj", "{6BDA5103-223F-4E43-81EE-A2CD1F6414BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TW.Assignment.GameOfLife.Tests", "TW.Assignment.GameOfLife.Tests\TW.Assignment.GameOfLife.Tests.csproj", "{8D3706FD-7151-4D05-8FEE-DA8CE167E093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDA5103-223F-4E43-81EE-A2CD1F6414BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDA5103-223F-4E43-81EE-A2CD1F6414BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDA5103-223F-4E43-81EE-A2CD1F6414BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDA5103-223F-4E43-81EE-A2CD1F6414BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3706FD-7151-4D05-8FEE-DA8CE167E093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3706FD-7151-4D05-8FEE-DA8CE167E093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3706FD-7151-4D05-8FEE-DA8CE167E093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3706FD-7151-4D05-8FEE-DA8CE167E093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

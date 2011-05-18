@@ -1,0 +1,7 @@
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife\bin\Debug\TW.Assignment.GameOfLife.dll
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife\bin\Debug\TW.Assignment.GameOfLife.pdb
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife\obj\Debug\TW.Assignment.GameOfLife.dll
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife\obj\Debug\TW.Assignment.GameOfLife.pdb
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife\bin\Debug\nunit.framework.dll
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife\bin\Debug\nunit.framework.xml

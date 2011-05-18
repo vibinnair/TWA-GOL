@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6BDA5103-223F-4E43-81EE-A2CD1F6414BB" ModuleId="TW.Assignment.GameOfLife" />
+  <Module PersistentId="8D3706FD-7151-4D05-8FEE-DA8CE167E093" ModuleId="TW.Assignment.GameOfLife.Tests" />
+</Modules>

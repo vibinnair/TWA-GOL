@@ -1,0 +1,9 @@
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\bin\Debug\TW.Assignment.GameOfLife.Tests.dll
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\bin\Debug\TW.Assignment.GameOfLife.Tests.pdb
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\bin\Debug\nunit.framework.dll
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\bin\Debug\TW.Assignment.GameOfLife.dll
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\bin\Debug\TW.Assignment.GameOfLife.pdb
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\bin\Debug\nunit.framework.xml
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\obj\Debug\TW.Assignment.GameOfLife.Tests.dll
+D:\WorkArea\Research\ThoughtWorks problems\TW.Assignment.GameOfLife\TW.Assignment.GameOfLife.Tests\obj\Debug\TW.Assignment.GameOfLife.Tests.pdb
