@@ -4,13 +4,19 @@ namespace TW.Assignment.GameOfLife
 {
     public class Cell
     {
-        private State state;
-        private List<Cell> neighbours;
+        private IState state;
+        private int xPosition;
+        private int yPosition;
+        private List<CellState> neighbours;
         
 
-        public Cell()
+        public Cell(int xPosition, int yPosition)
         {
-            neighbours = new List<Cell>();
+            neighbours = new List<CellState>();
+
+            this.xPosition = xPosition;
+            this.yPosition = yPosition;
+
         }
 
         public void setState(CellState state)
@@ -39,9 +45,9 @@ namespace TW.Assignment.GameOfLife
         {
             int aliveNeighbours = 0;
 
-            foreach (Cell neighbour in neighbours)
+            foreach (CellState neighbour in neighbours)
             {
-                if(neighbour.getState() == CellState.ALIVE)
+                if(neighbour == CellState.ALIVE)
                 {
                     aliveNeighbours++;
                 }
@@ -50,9 +56,9 @@ namespace TW.Assignment.GameOfLife
             return aliveNeighbours;
         }
 
-        public void addNeighbour(Cell neighbour)
+        public void addNeighbours(List<CellState> neighbours)
         {
-            neighbours.Add(neighbour);            
+            this.neighbours = neighbours;            
         }
     }
 }

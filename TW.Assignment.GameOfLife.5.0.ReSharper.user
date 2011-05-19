@@ -7,18 +7,52 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Class1.cs" caret="0" fromTop="0" />
-      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="393" fromTop="12" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:State.cs" caret="137" fromTop="5" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Cell.cs" caret="184" fromTop="7" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellState.cs" caret="70" fromTop="2" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="1609" fromTop="32" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="229" fromTop="0" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="428" fromTop="5" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:DeadState.cs" caret="311" fromTop="11" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:AliveState.cs" caret="181" fromTop="7" />
     </RecentFiles>
     <RecentEdits>
-      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="416" fromTop="8" />
-      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="182" fromTop="4" />
-      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:Class1.cs" caret="390" fromTop="12" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="684" fromTop="14" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Cell.cs" caret="184" fromTop="7" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Cell.cs" caret="1243" fromTop="32" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Cell.cs" caret="184" fromTop="4" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="344" fromTop="11" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="508" fromTop="30" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="469" fromTop="17" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="920" fromTop="17" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Cell.cs" caret="720" fromTop="17" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="520" fromTop="19" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="623" fromTop="20" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="1374" fromTop="31" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="136" fromTop="5" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="1525" fromTop="20" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="144" fromTop="5" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="251" fromTop="10" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="246" fromTop="4" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="491" fromTop="20" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="712" fromTop="0" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="621" fromTop="14" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="385" fromTop="5" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:Universe.cs" caret="840" fromTop="26" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="1794" fromTop="24" />
+      <File id="6BDA5103-223F-4E43-81EE-A2CD1F6414BB/f:CellList.cs" caret="360" fromTop="13" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="978" fromTop="16" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="1146" fromTop="21" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="2283" fromTop="31" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="1654" fromTop="16" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="2270" fromTop="30" />
+      <File id="8D3706FD-7151-4D05-8FEE-DA8CE167E093/f:GameOfLifeTests.cs" caret="1883" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -31,17 +65,104 @@
   </UnitTestRunner>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="0" />
-      <Item value="void" priority="0" />
+      <Item value="public" priority="22" />
+      <Item value="void" priority="14" />
       <Item value="AUniverseWithOneLivingCellDoesNotSurvives`0" priority="0" />
-      <Item value="new" priority="0" />
-      <Item value="Universe" priority="0" />
-      <Item value="universe" priority="1" />
-      <Item value="Assert`0" priority="0" />
-      <Item value="cell" priority="0" />
+      <Item value="new" priority="10" />
+      <Item value="Universe" priority="1" />
+      <Item value="universe" priority="11" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="cell" priority="25" />
+      <Item value="string" priority="3" />
+      <Item value="this" priority="11" />
+      <Item value="return" priority="18" />
+      <Item value="SetUp" priority="1" />
+      <Item value="int" priority="19" />
+      <Item value="private" priority="8" />
+      <Item value="xPos" priority="1" />
+      <Item value="yPos" priority="1" />
+      <Item value="state" priority="5" />
+      <Item value="Cell`0" priority="24" />
+      <Item value="List`0" priority="2" />
+      <Item value="List" priority="1" />
+      <Item value="List&lt;Cell&gt;" priority="1" />
+      <Item value="Cell" priority="3" />
+      <Item value="States`0" priority="2" />
+      <Item value="MemberwiseClone`0" priority="0" />
+      <Item value="cells" priority="7" />
+      <Item value="foreach" priority="9" />
+      <Item value="if" priority="22" />
+      <Item value="CellState`0" priority="9" />
+      <Item value="xPosition" priority="15" />
+      <Item value="yPosition" priority="11" />
+      <Item value="ALIVE" priority="2" />
+      <Item value="for" priority="6" />
+      <Item value="Universe`0" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="neighbour" priority="3" />
+      <Item value="aliveNeighbours" priority="4" />
+      <Item value="AliveState`0" priority="3" />
+      <Item value="State`0" priority="1" />
+      <Item value="DeadState`0" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="cell1" priority="0" />
+      <Item value="CellList`0" priority="0" />
+      <Item value="cellList" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
-      <Item value="AreEqual`0" priority="0" />
+      <Item value="AreEqual`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TW.Assignment.GameOfLife.Universe">
+      <Item value="cell" priority="0" />
+      <Item value="addCell`0" priority="0" />
+      <Item value="create`0" priority="0" />
+      <Item value="add`0" priority="0" />
+      <Item value="getTransisition`0" priority="0" />
+      <Item value="setSize`0" priority="0" />
+      <Item value="tick`0" priority="0" />
+      <Item value="getCellState`0" priority="1" />
+      <Item value="setCellState`0" priority="0" />
+      <Item value="cells" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TW.Assignment.GameOfLife.Cell">
+      <Item value="xPos" priority="0" />
+      <Item value="yPos" priority="0" />
+      <Item value="state" priority="2" />
+      <Item value="getState`0" priority="3" />
+      <Item value="tick`0" priority="1" />
+      <Item value="aliveNeighbours`0" priority="0" />
+      <Item value="AddNeighbour`0" priority="0" />
+      <Item value="addAliveNeighbour`0" priority="1" />
+      <Item value="setState`0" priority="0" />
+      <Item value="isLonely`0" priority="0" />
+      <Item value="isOverCrowded`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TW.Assignment.GameOfLife.States">
+      <Item value="ALIVE" priority="0" />
+      <Item value="DEAD" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TW.Assignment.GameOfLife.CellState">
+      <Item value="ALIVE" priority="8" />
+      <Item value="DEAD" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TW.Assignment.GameOfLife.DeadState">
+      <Item value="cell" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TW.Assignment.GameOfLife.State">
+      <Item value="getState`0" priority="0" />
+      <Item value="tick`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TW.Assignment.GameOfLife.CellList">
+      <Item value="addCell`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
