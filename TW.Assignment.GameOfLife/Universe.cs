@@ -1,21 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace TW.Assignment.GameOfLife
+﻿namespace TW.Assignment.GameOfLife
 {
     public class Universe
     {
         private CellList cellList;
         
-        
-        public Universe(int size)
-        {
-            cellList = new CellList(size);
-        }
 
-        public void addCell(int xPosition, int yPosition, CellState state)
+        public void setSeed(CellList cellList)
         {
-            cellList.addCell(xPosition, yPosition, state);
+            this.cellList = cellList;
         }               
 
         public void tick()
@@ -25,10 +17,9 @@ namespace TW.Assignment.GameOfLife
             cellList.tickCells();
         }      
         
-
-        public CellState getCellState(int xPosition, int yPosition)
+        public CellList getFirstGeneration()
         {
-            return cellList.getCellState(xPosition, yPosition);
+            return cellList;
         }
     }
 }
